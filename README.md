@@ -7,7 +7,7 @@
     - [ ]   MobileNet V2 Board Detection [Link](#)
     - [ ]   Mnist[Link](#)
     - [ ]  Fashion Mnist [Link](#)
-    - [ ]   [Link](#)
+    
     - [ ]   [Link](#)
     - [ ]   [Link](#)
     - [ ]   [Link](#)
@@ -15,6 +15,7 @@
     - [ ]   [Cloud Composer](#)
     - [ ]   [Link](#)
     - [ ]   [Link](#)
+    
 - Python Implementation
   - [ ]   [Link](#)
   - [ ]   [Link](#)
@@ -27,5 +28,6 @@
 - InterviewQuestion
   - Notes [Link](#)
 - Topics
-  - Generative Models [Link](#)
-  - Gaussian Processes [Link](#)
+  - [ ]  Generative Models [Link](#)
+  - [ ] Gaussian Processes [Link](#)
+  - [ ] [Conditional Random Feilds](#)
