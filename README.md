@@ -11,8 +11,8 @@
     - [ ]   [Link](#)
     - [ ]   [Link](#)
     - [ ]   [Link](#)
-    - [ ]   [Link](#)
-    - [ ]   [Link](#)
+    - [ ]   [Image Augmentation in TF2](#)
+    - [ ]   [Cloud Composer](#)
     - [ ]   [Link](#)
     - [ ]   [Link](#)
 - Python Implementation
