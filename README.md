@@ -31,3 +31,8 @@
   - [ ]  Generative Models [Link](#)
   - [ ] Gaussian Processes [Link](#)
   - [ ] [Conditional Random Feilds](#)
+  
+  
+ - RL
+    - [ ] Robotic Arm [Link](https://medium.com/datadriveninvestor/training-a-robotic-arm-to-do-human-like-tasks-using-rl-8d3106c87aaf)
+ 
