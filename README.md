@@ -36,3 +36,5 @@
  - RL
     - [ ] Robotic Arm [Link](https://medium.com/datadriveninvestor/training-a-robotic-arm-to-do-human-like-tasks-using-rl-8d3106c87aaf)
  
+- Basic OOP
+    - Colab Link and Notes [Link](https://colab.research.google.com/drive/1JpKo3mMrW37WFt4MwQm_YEtbK4HXqDDi)
