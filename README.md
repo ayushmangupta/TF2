@@ -33,6 +33,7 @@
   - [ ]  Generative Models [Link](#)
   - [ ] Gaussian Processes [Link](#)
   - [ ] [Conditional Random Feilds](#)
+  - [ ] [Sparse Coding](http://ufldl.stanford.edu/tutorial/unsupervised/SparseCoding)
   
   
  - RL
