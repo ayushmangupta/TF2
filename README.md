@@ -34,6 +34,7 @@
   - [ ] Gaussian Processes [Link](#)
   - [ ] [Conditional Random Feilds](#)
   - [ ] [Sparse Coding](http://ufldl.stanford.edu/tutorial/unsupervised/SparseCoding)
+  - [ ] [Independent Component Analysis](http://ufldl.stanford.edu/tutorial/unsupervised/RICA/)
   
   
  - RL
