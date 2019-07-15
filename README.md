@@ -12,10 +12,7 @@
     
     - [ ]   [Link](#)
     - [ ]   [Link](#)
-    - [ ]   [Link](#)
-    - [ ]   [Image Augmentation in TF2](#)
-    - [ ]   [Cloud Composer](#)
-    - [ ]   [Link](#)
+    - [ ]   [Link](#)- [ ]   [Link](#)
     - [ ]   [Link](#)
     
 - Python Implementation
@@ -43,3 +40,11 @@
  
 - Basic OOP
     - Colab Link and Notes [Link](https://colab.research.google.com/drive/1JpKo3mMrW37WFt4MwQm_YEtbK4HXqDDi)
+    
+    
+    
+- ## Things to Do    
+    - [ ]   [Image Augmentation in TF2](#)
+    - [ ]   [TF Datasets and TFRecords](#)
+    - [ ]   [Cloud Composer](#)
+    
