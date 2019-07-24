@@ -35,6 +35,7 @@
   
   
  - RL
+    - [ ] Introduction Notebook [Link](https://colab.research.google.com/drive/1GjhUH4jSzJ_SJuDWTgsijGzjg029_PIv#scrollTo=kqe1LnxuHrbT)
     - [ ] Robotic Arm [Link](https://medium.com/datadriveninvestor/training-a-robotic-arm-to-do-human-like-tasks-using-rl-8d3106c87aaf)
     - [ ] Model Based Reinforcement Learning for Atari [Link](https://arxiv.org/pdf/1903.00374.pdf)
  
