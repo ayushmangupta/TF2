@@ -36,9 +36,11 @@
   
  - RL
     - [ ] Introduction Notebook [Link](https://colab.research.google.com/drive/1GjhUH4jSzJ_SJuDWTgsijGzjg029_PIv#scrollTo=kqe1LnxuHrbT)
+    - [ ] RL Algo list 
     - [ ] Robotic Arm [Link](https://medium.com/datadriveninvestor/training-a-robotic-arm-to-do-human-like-tasks-using-rl-8d3106c87aaf)
     - [ ] Model Based Reinforcement Learning for Atari [Link](https://arxiv.org/pdf/1903.00374.pdf)
- 
+    
+  
 - Basic OOP
     - Colab Link and Notes [Link](https://colab.research.google.com/drive/1JpKo3mMrW37WFt4MwQm_YEtbK4HXqDDi)
     
